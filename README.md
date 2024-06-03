@@ -1,0 +1,2 @@
+# MSSM-GNN
+ECML/PKDD 2024 Accpect
