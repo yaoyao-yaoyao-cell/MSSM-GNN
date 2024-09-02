@@ -6,7 +6,7 @@ Run ```conda env create -f environment.yml``` to create a runtime environment.
 
 
 ## Part 1: Molecular Structural Similarity Motif Graph Construction
-Run ```python preprocess.py``` to construct MSSM-graph for TUDataset (PROTEINS/PTC_MR/MUTAG/NCI1/Mutagenicity).
+Run ```python preprocess.py``` to construct an MSSM-graph for TUDataset (PROTEINS/PTC_MR/MUTAG/NCI1/Mutagenicity).
 
 Change the parameter of drop_node() function in the ops.py to drop noises in the motif dictionary.
 
